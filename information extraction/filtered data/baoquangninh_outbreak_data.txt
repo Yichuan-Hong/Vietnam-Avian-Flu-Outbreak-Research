@@ -1,0 +1,65 @@
+2021-07-02, hạ long;hạ long
+2021-01-17, hải hà
+2018-12-29, móng cái;móng cái
+2018-02-10, thái bình;thái bình;thái bình
+2017-09-06, bạc liêu;bạc liêu;bạc liêu
+2017-04-05, quảng ninh;móng cái;quảng ninh;móng cái;thọ xuân
+2017-03-27, cần thơ;hà tĩnh;quảng trị;hậu giang;hà tĩnh;ô môn;ô môn;ô môn;hà tĩnh;vị thủy;quảng trị;triệu phong
+2017-03-22, cần thơ;cao bằng;quảng trị;cao bằng;vũng tàu;vũng tàu;ô môn;ô môn;ô môn;cao bằng;hòa an;trà lĩnh;quảng trị
+2017-03-10, hà nội;cao bằng;bắc ninh;an giang;bắc ninh;cao bằng;thoại sơn;phú mỹ;bắc ninh;cao bằng;trà lĩnh
+2017-02-28, móng cái;đầm hà;móng cái
+2017-02-27, nam định;nghệ an;quảng ngãi;an giang;sóc trăng;bạc liêu;bạc liêu;nam định;quảng ngãi;sóc trăng;vinh;phú tân;thoại sơn;phú mỹ;bạc liêu;phước long;phước long;phú tân;nam định;diễn châu;vinh;đức phổ;quảng ngãi;mỹ tú;sóc trăng
+2017-02-26, hà nội;hà giang;cao bằng;lạng sơn;bắc ninh;bắc giang;quảng ninh;bắc giang;bắc ninh;cao bằng;hà giang;lạng sơn;bắc giang;bắc ninh;cao bằng;hà giang;lạng sơn;quảng ninh
+2017-02-23, nam định;quảng ngãi;đồng nai;an giang;sóc trăng;bạc liêu;bạc liêu;nam định;quảng ngãi;sóc trăng;thoại sơn;bạc liêu;nam định;quảng ngãi;sóc trăng
+2017-02-23, móng cái;bình liêu;hải hà;móng cái
+2015-02-12, hạ long;yên mô;hạ long
+2014-08-26, lào cai;lạng sơn;hà tĩnh;hà tĩnh;lạng sơn;lào cai;hà tĩnh;lạng sơn;bảo thắng;lào cai
+2014-03-05, hà nội;cần thơ;lào cai;phú thọ;hưng yên;hải dương;nam định;thanh hóa;nghệ an;hà tĩnh;quảng bình;quảng ngãi;kon tum;gia lai;bình định;phú yên;đắk lắk;khánh hòa;tây ninh;bình dương;long an;vĩnh long;trà vinh;sóc trăng;bạc liêu;cà mau;bà rịa;bạc liêu;cà mau;hà tĩnh;hải dương;hưng yên;kon tum;lào cai;nam định;quảng ngãi;sóc trăng;tây ninh;thanh hóa;trà vinh;vinh;vĩnh long;vũng tàu;bà rịa;vũng tàu;bạc liêu;cà mau;lắk;thống nhất;hà tĩnh;hải dương;hưng yên;kon tum;lào cai;nam định;vinh;phú thọ;quảng ngãi;sóc trăng;tây ninh;thanh hóa;trà vinh;vĩnh long
+2014-03-01, lào cai;khánh hòa;trà vinh;lào cai;trà vinh;vinh;lào cai;vinh;trà vinh
+2014-02-19, quảng ninh;quảng ninh
+2014-02-14, quảng ninh;hạ long;quảng ninh;hạ long
+2013-08-15, tiền giang
+2013-05-06, hạ long;hạ long
+2013-05-05, hà nội
+2013-05-04, quảng ninh;quảng ninh
+2013-04-11, bắc ninh;nghệ an;hà tĩnh;bắc ninh;hà tĩnh;bắc ninh;hà tĩnh;đông triều;quảng yên
+2013-04-05, quảng ninh;hạ long;quảng ninh;hạ long
+2013-04-03, quảng yên
+2012-10-03, tuyên quang;bắc kạn;hòa bình;thái bình;hà tĩnh;quảng nam;quảng ngãi;bắc kạn;hà tĩnh;quảng ngãi;thái bình;tuyên quang;bắc kạn;hòa bình;hà tĩnh;hòa bình;quảng ngãi;thái bình;tuyên quang
+2012-03-01, quảng yên
+2012-02-29, quảng yên
+2011-11-07, móng cái;móng cái
+2010-04-26, hạ long;hạ long
+2009-03-15, móng cái;móng cái
+2009-02-24, yên mô;đầm hà
+2009-02-24, đầm hà
+2009-02-19, hạ long;uông bí;kim sơn;đông triều;hạ long;uông bí
+2009-02-17, hạ long;hạ long
+2009-02-15, quảng ninh;hạ long;quảng ninh;đầm hà;hạ long
+2009-02-11, đầm hà
+2009-02-11, hải phòng;đầm hà
+2009-02-08, quảng ninh;quảng ninh;đầm hà
+2008-06-05, uông bí;uông bí
+2008-03-18, móng cái;uông bí;đông triều;móng cái;uông bí
+2008-03-07, hà nội;tuyên quang;phú thọ;quảng ninh;hải dương;hà nam;nam định;ninh bình;vĩnh long;hải dương;nam định;ninh bình;tuyên quang;vĩnh long;sóc sơn;sóc sơn;sóc sơn;hải dương;nam định;ninh bình;phú thọ;quảng ninh;sơn dương;tuyên quang;vĩnh long
+2008-03-03, phú thọ;quảng ninh;hà nam;ninh bình;ninh bình;duy tiên;ninh bình;yên khánh;cẩm khê;phú thọ;quảng ninh;trấn yên
+2008-02-23, quảng ninh;móng cái;uông bí;quảng ninh;đông triều;móng cái;uông bí
+2008-02-21, móng cái;uông bí;kim sơn;đông triều;móng cái;uông bí
+2008-02-19, móng cái;yên mô;móng cái
+2008-01-24, tuyên quang;thái nguyên;quảng bình;trà vinh;thái nguyên;trà vinh;tuyên quang;vinh;vinh;thái nguyên;trà vinh;tuyên quang
+2007-09-08, uông bí;đông triều;uông bí
+2007-07-24, đà nẵng;quảng nam;quảng ngãi;phú yên;đà nẵng;quảng ngãi;núi thành;quảng ngãi;tư nghĩa
+2007-07-06, móng cái;đông triều;móng cái
+2007-06-22, hải phòng;bắc giang;bắc giang;bắc giang;việt yên;yên dũng
+2007-06-16, cao bằng;cao bằng;cao bằng
+2007-06-15, hải phòng;cần thơ;sơn la;phú thọ;vĩnh phúc;bắc ninh;bắc giang;quảng ninh;hưng yên;thái bình;hà nam;nam định;ninh bình;nghệ an;hà tĩnh;quảng nam;đồng tháp;bắc giang;bắc ninh;hà tĩnh;hưng yên;nam định;ninh bình;sơn la;thái bình;bắc giang;yên dũng;bắc ninh;hà tĩnh;lộc hà;hưng yên;nam định;ninh bình;phú thọ;quảng ninh;sơn la;thái bình
+2007-06-08, móng cái;uông bí;yên mô;đông triều;móng cái;uông bí
+2007-06-01, bình dương;yên mô;đông triều
+2007-05-31, móng cái;móng cái
+2007-05-29, móng cái;uông bí;móng cái;uông bí
+2007-05-29, yên mô;đông triều
+2007-02-26, cần thơ;hải dương;vĩnh long;kiên giang;hậu giang;trà vinh;sóc trăng;cà mau;kiên giang;cà mau;hải dương;sóc trăng;trà vinh;vinh;vĩnh long;cà mau;đồng văn;hải dương;thanh miện;vinh;sóc trăng;trà vinh;vĩnh long
+2007-01-27, hà nội;quảng ninh;quảng ninh
+2007-01-04, nha trang;nha trang
+2006-12-26, hòa bình;hậu giang;bạc liêu;cà mau;bạc liêu;cà mau;bạc liêu;hòa bình;cà mau;hòa bình
+2006-08-24, quảng ninh;quảng ninh

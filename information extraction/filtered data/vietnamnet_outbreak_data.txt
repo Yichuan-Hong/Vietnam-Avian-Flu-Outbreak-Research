@@ -1,0 +1,13 @@
+2020-02-05, hà nội;điện biên;vĩnh phúc;điện biên
+2021-07-09, đắk nông
+2021-07-07, cao bằng;cao bằng;cao bằng
+2021-07-12, bình phước
+2021-07-05, ba vì;chương mỹ;mỹ đức;phú xuyên;phúc thọ;sóc sơn;thanh oai;ứng hòa;ba vì;chương mỹ;mỹ đức;phú xuyên;phúc thọ;sóc sơn;thanh oai;ứng hòa;ba vì;chương mỹ;mỹ đức;phú xuyên;phúc thọ;sóc sơn;thanh oai;ứng hòa
+2017-02-20, nam định;nghệ an;quảng ngãi;bạc liêu;bạc liêu;nam định;quảng ngãi;bạc liêu;nam định;trực ninh;diễn châu;đức phổ;quảng ngãi
+2021-07-10, hà nội;phú xuyên;thường tín;phú xuyên;thường tín;phú xuyên;thường tín
+2012-08-10, hải phòng;quảng ninh;hải dương;hà nam;ninh bình;hà tĩnh;quảng bình;hà tĩnh;hải dương;ninh bình;tam điệp;thanh liêm;cẩm xuyên;hà tĩnh;thạch hà;hải dương;ninh bình;tam điệp;yên mô;bố trạch;lệ thủy;quảng ninh;quảng trạch;yên sơn
+2013-04-18, điện biên;khánh hòa;tây ninh;kiên giang;kiên giang;tây ninh;điện biên;tây ninh
+2012-03-08, thái nguyên;bắc ninh;quảng ninh;hải dương;nam định;thanh hóa;hà tĩnh;quảng nam;bắc ninh;hà tĩnh;hải dương;nam định;thái nguyên;thanh hóa;bắc ninh;hà tĩnh;hải dương;nam định;quảng ninh;thái nguyên;thanh hóa
+2021-03-19, tuyên quang;tuyên quang;tuyên quang
+2021-03-29, vĩnh phúc
+2021-06-26, tiền giang

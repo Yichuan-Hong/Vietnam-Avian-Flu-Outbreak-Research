@@ -1,0 +1,35 @@
+2021-03-07, quảng ninh;hạ long;quảng ninh;hạ long
+2021-02-07, hạ long;hạ long
+2021-02-14, quảng ninh;hải dương;hải dương;hải dương;quảng ninh
+2021-01-14, thái bình;bình dương;thái bình;thái bình
+2020-11-29, hà nam;quảng nam;kon tum;đắk lắk;khánh hòa;đồng nai;long an;trà vinh;kon tum;trà vinh;vinh;lắk;kon tum;vinh;trà vinh
+2020-05-30, hà nội
+2020-04-15, hà nội;mê linh;thường tín;mê linh;thường tín;mê linh;thường tín
+2020-07-04, hà nội
+2020-02-22, hà nội;bắc ninh;quảng ninh;thanh hóa;nghệ an;bắc ninh;thanh hóa;bắc ninh;quảng ninh;thanh hóa
+2020-01-21, thái bình;bình dương;thái bình;thái bình
+2020-09-01, thống nhất
+2019-11-14, thái bình;bình dương;thái bình;thái bình
+2017-05-17, hà nội
+2017-10-05, yên mô
+2017-02-03, nam định;nam định;nam định;trực ninh;vụ bản
+2017-02-26, hưng yên;hưng yên;hưng yên;khoái châu;yên mô
+2016-10-21, hà nội;thường tín;thường tín;thường tín
+2016-04-09, gia bình
+2016-07-18, quảng ngãi;quảng ngãi;bình sơn;quảng ngãi;sơn tịnh
+2016-07-04, thống nhất
+2016-09-03, đức trọng
+2015-05-02, hà nội
+2014-11-24, thăng bình
+2014-08-25, lào cai;lào cai;bảo thắng;lào cai
+2014-03-13, tây ninh;bình dương;đồng nai;bà rịa;tây ninh;vũng tàu;bà rịa;vũng tàu;tây ninh
+2014-02-28, đồng nai;long khánh;an nhơn;long khánh
+2014-02-27, sơn tây;sơn tây;sơn tây;sơn tây
+2014-02-26, long an;tân an;tân an
+2014-02-24, lạng sơn;lạng sơn;lạng sơn
+2014-02-19, lào cai;nam định;quảng ngãi;kon tum;phú yên;đắk lắk;tây ninh;bà rịa-vũng tàu;long an;cà mau;bà rịa-vũng tàu;bà rịa;cà mau;kon tum;lào cai;nam định;quảng ngãi;tây ninh;vũng tàu;bà rịa;vũng tàu;cà mau;lắk;bình chánh;bình chánh;bình chánh;kon tum;lào cai;nam định;quảng ngãi;tây ninh
+2014-02-17, lào cai;lạng sơn;quảng ninh;nam định;quảng ngãi;kon tum;phú yên;đắk lắk;tây ninh;long an;cà mau;cà mau;kon tum;lạng sơn;lào cai;nam định;quảng ngãi;tây ninh;cà mau;lắk;kon tum;lạng sơn;bảo thắng;lào cai;nam định;quảng ninh;quảng ngãi;tây ninh
+2013-06-17, hà nội
+2013-04-05, hà nội;hải phòng;tiên lãng;tiên lãng;tiên lãng
+2013-04-24, hải phòng
+2013-03-19, điện biên;khánh hòa;kiên giang;kiên giang;điện biên

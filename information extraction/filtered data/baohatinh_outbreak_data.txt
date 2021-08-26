@@ -1,0 +1,54 @@
+2021-04-13, hà tĩnh;hà tĩnh;hà tĩnh
+2021-03-26, hà tĩnh;hà tĩnh;hà tĩnh;thạch hà
+2020-12-25, hà tĩnh;hà tĩnh;cẩm xuyên;can lộc;hà tĩnh;kỳ anh;kỳ anh;lộc hà;nghi xuân;thạch hà;yên mô
+2020-10-12, hà tĩnh;hà tĩnh;hà tĩnh
+2020-03-22, hà tĩnh;hà tĩnh;hà tĩnh;kỳ anh;kỳ anh;thủ đức;thủ đức;thủ đức
+2020-03-12, hà tĩnh;hà tĩnh;hà tĩnh;kỳ anh;kỳ anh;yên mô
+2020-03-01, hà tĩnh;hà tĩnh;hà tĩnh;nghi xuân
+2020-02-18, hà tĩnh;hà tĩnh;hà tĩnh
+2020-01-16, yên mô
+2019-02-26, hải phòng;hưng yên;thái bình;thanh hóa;hà tĩnh;hà tĩnh;hưng yên;thái bình;thanh hóa;đức thọ;hà tĩnh;hương khê;kỳ anh;kỳ anh;vũ quang;hưng yên;kỳ sơn;yên mô;thái bình;thanh hóa
+2018-02-18, hà tĩnh;hà tĩnh;hà tĩnh
+2018-02-16, trùng khánh
+2018-02-16, trùng khánh
+2017-03-27, hà nội;hải phòng;hà tĩnh;hà tĩnh;đức thọ;hà tĩnh
+2017-03-15, hà tĩnh;hà tĩnh;hà tĩnh;kỳ anh;kỳ anh
+2017-03-10, hà tĩnh;hà tĩnh;đức thọ;hà tĩnh;hương sơn
+2017-03-07, hà nội;hà tĩnh;hà tĩnh;hà tĩnh
+2017-03-06, hà tĩnh;hà tĩnh;hà tĩnh
+2017-02-28, hà tĩnh;hà tĩnh;vinh;hà tĩnh;vinh
+2014-12-18, hà tĩnh;hà tĩnh;hà tĩnh;yên mô
+2014-08-19, hà tĩnh;hà tĩnh;đức thọ;hà tĩnh;thạch hà;yên mô
+2014-08-18, yên mô
+2014-07-18, hà tĩnh;hà tĩnh;cẩm xuyên;hà tĩnh;yên mô
+2014-07-04, cẩm xuyên;can lộc;kỳ anh;kỳ anh;thạch hà;yên mô
+2014-03-05, cẩm xuyên;can lộc;kỳ anh;kỳ anh
+2014-02-24, hà nội;lạng sơn;hà tĩnh;hà tĩnh;lạng sơn;hà tĩnh;lạng sơn
+2014-02-20, hà tĩnh;hà tĩnh;cẩm xuyên;hà tĩnh
+2014-02-19, hà tĩnh;hà tĩnh;hà tĩnh;hồng lĩnh;kỳ anh;kỳ anh;nghi xuân;yên mô
+2014-02-18, hà nội;hà tĩnh;hà tĩnh;hà tĩnh
+2014-02-17, lào cai;lạng sơn;quảng ninh;nam định;quảng ngãi;kon tum;phú yên;đắk lắk;tây ninh;long an;cà mau;cà mau;kon tum;lạng sơn;lào cai;nam định;quảng ngãi;tây ninh;cà mau;lắk;kon tum;lạng sơn;bảo thắng;lào cai;nam định;quảng ninh;quảng ngãi;tây ninh
+2014-02-07, hà nội
+2014-01-14, hồng lĩnh
+2013-05-02, hà nội;thường tín;thường tín;thường tín
+2013-04-05, hà tĩnh;hà tĩnh;hà tĩnh;hương sơn
+2013-03-28, hà nội;hà tĩnh;hà tĩnh;hà tĩnh
+2012-10-28, hà nội;hà tĩnh;hà tĩnh;cẩm xuyên;hà tĩnh;yên mô
+2012-10-07, hà tĩnh;hà tĩnh;hà tĩnh;yên mô
+2012-10-02, hà tĩnh;hà tĩnh;cẩm mỹ;cẩm xuyên;đức thọ;hà tĩnh;hồng lĩnh;thạch hà;yên mô
+2012-09-13, hà nội;hà tĩnh;hà tĩnh;cẩm xuyên;can lộc;hà tĩnh;hương khê;kỳ anh;kỳ anh;thạch hà
+2012-08-23, hà nội;hà tĩnh;hà tĩnh;cẩm xuyên;can lộc;hà tĩnh;kỳ anh;kỳ anh;thạch hà
+2012-08-18, kỳ anh;kỳ anh
+2012-08-02, hà tĩnh;hà tĩnh;cẩm xuyên;hà tĩnh;thạch hà
+2012-07-29, nghệ an;hà tĩnh;quảng bình;hà tĩnh;hà tĩnh;kỳ anh;kỳ anh;nghi xuân
+2012-04-10, cẩm xuyên;yên mô
+2012-03-14, hà tĩnh;hà tĩnh;hà tĩnh;kỳ anh;kỳ anh
+2012-02-22, hà tĩnh;hà tĩnh;can lộc;hà tĩnh
+2012-02-22, hà nội;hà tĩnh;hà tĩnh;cẩm xuyên;hà tĩnh
+2012-02-22, hà tĩnh;hà tĩnh;cẩm xuyên;can lộc;hà tĩnh;lộc hà;hải hà
+2012-02-18, hà tĩnh;hà tĩnh;thanh bình;cẩm xuyên;hà tĩnh;kỳ anh;kỳ anh
+2012-02-16, hà tĩnh;hà tĩnh;cẩm mỹ;cẩm xuyên;hà tĩnh;thạch hà
+2012-02-14, hà tĩnh;hà tĩnh;hà tĩnh;kỳ anh;kỳ anh
+2010-11-01, hà tĩnh;hà tĩnh;cẩm xuyên;hà tĩnh;vũ quang
+2010-10-28, thống nhất;cẩm xuyên;vũ quang;yên mô
+2010-03-13, hà nội

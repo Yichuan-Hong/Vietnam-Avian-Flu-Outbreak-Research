@@ -1,0 +1,29 @@
+2021-01-27, hà nội;lạng sơn;quảng ninh;hải dương;nam định;ninh bình;phú yên;long an;hải dương;lạng sơn;nam định;ninh bình;hải dương;lạng sơn;nam định;ninh bình;quảng ninh
+2014-03-02, hà nội;cần thơ;lào cai;phú thọ;hưng yên;hải dương;nam định;nghệ an;hà tĩnh;quảng bình;quảng ngãi;kon tum;gia lai;bình định;phú yên;đắk lắk;khánh hòa;tây ninh;long an;vĩnh long;trà vinh;sóc trăng;bạc liêu;cà mau;bà rịa;bạc liêu;cà mau;hà tĩnh;hải dương;hưng yên;kon tum;lào cai;nam định;quảng ngãi;sóc trăng;tây ninh;trà vinh;vinh;vĩnh long;vũng tàu;bà rịa;vũng tàu;bạc liêu;cà mau;lắk;hà tĩnh;hải dương;hưng yên;văn lâm;kon tum;lào cai;nam định;vinh;phú thọ;quảng ngãi;sóc trăng;tây ninh;đại từ;trà vinh;vĩnh long
+2016-06-29, quảng ngãi;quảng ngãi;quảng ngãi
+2020-02-16, bình thuận;long an;tiền giang
+2014-02-20, cần thơ;bình thủy;ô môn;bình thủy;ô môn;phong điền;phong điền;bình thủy;ô môn;phong điền;phong điền
+2014-08-28, quảng ngãi;quảng ngãi;bình long;bình sơn;quảng ngãi
+2020-02-13, hà nội;bắc ninh;thanh hóa;nghệ an;bắc ninh;thanh hóa;bắc ninh;quế võ;chương mỹ;chương mỹ;chương mỹ;quỳnh lưu;nông cống;quảng xương;thanh hóa
+2013-05-21, cần thơ
+2020-02-18, bắc giang;bắc giang;bắc giang;yên thế
+2013-03-19, hà nội;quảng nam;khánh hòa
+2020-02-17, vĩnh phúc
+2013-05-09, huế;huế
+2013-03-02, khánh hòa;ninh hòa
+2014-03-25, hà nội
+2014-02-19, lào cai;phú thọ;lào cai;lào cai;phú thọ
+2014-02-20, tây ninh;long an;tây ninh;tây ninh
+2013-04-16, điện biên;khánh hòa;tây ninh;kiên giang;kiên giang;tây ninh;điện biên;tây ninh
+2014-04-02, yên mô
+2014-02-26, long an;tân an;tân an
+2014-02-06, đồng tháp;an giang;thanh bình
+2014-01-17, hà nội
+2017-02-21, nha trang;nha trang
+2017-02-21, quảng ngãi;quảng ngãi;hóc môn;hóc môn;hóc môn;bình sơn;đức phổ;quảng ngãi
+2014-08-19, lạng sơn;hà tĩnh;hà tĩnh;lạng sơn;hà tĩnh;kỳ anh;kỳ anh;gò vấp;gò vấp;bình chánh;hóc môn;bình chánh;hóc môn;gò vấp;bình chánh;hóc môn;lạng sơn;tràng định
+2017-03-02, nam định;nam định;nam định
+2013-04-10, tân sơn
+2014-02-26, đồng nai
+2013-06-22, bến tre;bến tre;bến tre
+2012-06-15, điện biên;điện biên phủ;điện biên;điện biên phủ;xuân trường

@@ -1,0 +1,55 @@
+2021-03-02, nghệ an;con cuông;diễn châu;đô lương;hưng nguyên;nam đàn;nghi lộc;quỳnh lưu;thanh chương;yên thành
+2020-02-21, nghệ an;vinh;quỳnh lưu;vinh
+2020-02-15, quỳnh lưu
+2020-07-20, huế;vinh;vinh;huế
+2020-07-20, thống nhất
+2020-07-04, nghệ an;yên mô
+2020-03-30, nam đàn;yên thành
+2017-03-11, vinh;vinh
+2017-02-24, nghệ an
+2017-02-23, nghệ an;vinh;cửa lò;vinh
+2016-08-19, phú quốc;phú quốc;vinh;vinh
+2016-04-19, quỳnh lưu
+2016-01-21, nghệ an;vinh;con cuông;đô lương;hưng nguyên;nam đàn;nghĩa đàn;quỳnh lưu;tân kỳ;thanh chương;vinh
+2015-12-04, nghệ an;diễn châu;yên thành
+2015-11-16, lạng sơn;lạng sơn;bảo lâm;bảo lâm;lạng sơn
+2015-09-25, thái bình;nam định;nam định;thái bình;nam định;thái bình
+2015-03-03, nghệ an
+2014-08-22, nghệ an;hoàng mai;hoàng mai;hoàng mai;hoàng mai
+2014-08-18, yên mô
+2014-06-27, hưng nguyên
+2014-04-03, nghệ an;quỳnh lưu
+2014-03-03, lạng sơn;lạng sơn;lạng sơn;anh sơn
+2014-02-25, lạng sơn;lạng sơn;lạng sơn
+2014-02-23, lào cai;lào cai;bảo thắng;lào cai;sa pa
+2014-02-20, nghệ an
+2014-02-07, hà nội;lào cai;thái bình;lào cai;thái bình;lào cai;thái bình
+2013-10-25, nghệ an;yên mô
+2013-09-06, nghệ an;hà tĩnh;quảng trị;hà tĩnh;vinh;hà tĩnh;vinh;quảng trị
+2013-08-25, hưng nguyên
+2013-07-03, yên mô
+2013-05-06, hà nội
+2013-04-25, nghệ an;hà tĩnh;ninh thuận;tiền giang;hà tĩnh;can lộc;hà tĩnh;hồng lĩnh;nghi xuân
+2013-04-22, diễn châu;đô lương;hưng nguyên;quỳnh lưu;yên thành
+2012-11-06, nghệ an
+2012-11-06, vinh;diễn châu;đô lương;hưng nguyên;nam đàn;nghi lộc;quỳnh lưu;thái hòa;thanh chương;vinh;yên thành
+2012-11-03, điện biên;điện biên
+2012-10-31, thái bình;phú yên;khánh hòa;long an;thái bình;thái bình
+2012-08-13, nghệ an;vinh;cửa lò;diễn châu;đô lương;hưng nguyên;kỳ sơn;nam đàn;nghi lộc;quỳnh lưu;thái hòa;thanh chương;vinh;yên thành
+2012-08-10, hải phòng;hải dương;ninh bình;hà tĩnh;quảng bình;hà tĩnh;hải dương;ninh bình;tam điệp;hà tĩnh;hải dương;ninh bình;tam điệp;yên mô;yên sơn
+2012-08-01, hải phòng;bắc ninh;quảng ninh;hải dương;nghệ an;quảng bình;bắc ninh;hải dương;bắc ninh;hải dương;quảng ninh
+2012-07-24, nghệ an
+2012-05-03, hà nội;cầu giấy;đống đa;cầu giấy;đống đa;cầu giấy;đống đa
+2012-03-13, quỳnh lưu
+2012-03-07, vinh;vinh
+2012-02-29, hải phòng;thái nguyên;bắc ninh;hải dương;nam định;thanh hóa;hà tĩnh;quảng trị;quảng nam;bắc ninh;hà tĩnh;hải dương;nam định;thái nguyên;thanh hóa;bắc ninh;hà tĩnh;hải dương;nam định;quảng trị;thái nguyên;thanh hóa
+2012-02-27, quỳnh lưu
+2012-02-24, quỳnh lưu
+2012-02-21, cần thơ
+2012-02-20, huế;huế
+2012-02-06, sóc trăng;sóc trăng;mỹ xuyên;sóc trăng
+2012-01-31, nghệ an
+2011-10-30, quảng ngãi;quảng ngãi;quảng ngãi;sơn tịnh
+2011-05-15, vinh;vinh
+2011-03-21, hà nội;lạng sơn;thái bình;thanh hóa;hà tĩnh;bình định;tây ninh;long an;đồng tháp;tiền giang;hà tĩnh;huế;lạng sơn;tây ninh;thái bình;thanh hóa;hà tĩnh;lạng sơn;tây ninh;thái bình;thanh hóa;huế
+2020-02-08, quỳnh lưu

@@ -1,0 +1,137 @@
+2021-07-02, quảng ninh;hạ long;quảng ninh;hạ long
+2020-11-10, bình phước;long an;tân bình;tân bình;tân bình;cần đước;tân trụ
+2020-08-04, thanh hóa;trà vinh;thanh hóa;trà vinh;vinh;vinh;nông cống;quảng xương;thanh hóa;cầu kè;cầu ngang;trà cú;trà vinh
+2020-02-13, hà nội;quảng ninh;thanh hóa;thanh hóa;chương mỹ;chương mỹ;chương mỹ;quảng ninh;đầm hà;nông cống;quảng xương;thanh hóa
+2019-03-11, đồng nai;kiên giang;phú quốc;phú quốc;kiên giang;thống nhất
+2017-09-08, bạc liêu;bạc liêu;bạc liêu
+2017-07-21, bình chánh;hóc môn;bình chánh;hóc môn;bình chánh;hóc môn
+2017-03-21, bà rịa;vũng tàu;bà rịa;vũng tàu
+2017-03-06, lạng sơn;lạng sơn;lạng sơn
+2017-02-27, nam định;quảng ngãi;đồng nai;an giang;sóc trăng;bạc liêu;bạc liêu;nam định;quảng ngãi;sóc trăng;bạc liêu;nam định;quảng ngãi;sóc trăng
+2017-02-20, quảng ninh;quảng ninh;hải hà
+2016-05-22, tây ninh;tây ninh;tây ninh
+2016-05-15, đồng nai;long thành
+2016-01-23, ninh thuận;bình dương;long an;tiền giang;bến tre;bến tre;bến tre
+2016-01-13, quảng ngãi;quảng ngãi;quảng ngãi
+2015-09-16, lào cai;nghệ an;quảng ngãi;đắk lắk;ninh thuận;bình dương;vĩnh long;lào cai;quảng ngãi;vĩnh long;lắk;lào cai;đô lương;thanh chương;quảng ngãi;vĩnh long
+2015-08-12, trà vinh;trà vinh;vinh;vinh;long phú;trà vinh
+2015-06-09, đắk lắk;đắk nông;lắk
+2015-05-23, ninh thuận;ninh sơn
+2015-05-08, cần thơ;hà nam
+2015-02-03, bắc kạn;cà mau;bắc kạn;cà mau;bắc kạn;cà mau;u minh;u minh
+2014-12-26, quảng ngãi;vĩnh long;trà vinh;quảng ngãi;trà vinh;vinh;vĩnh long;vinh;quảng ngãi;sơn tịnh;trà vinh;vĩnh long
+2014-03-22, lạng sơn;lạng sơn;lạng sơn
+2014-03-06, hải dương;nghệ an;tây ninh;bình dương;trà vinh;bạc liêu;bạc liêu;hải dương;tây ninh;trà vinh;vinh;bạc liêu;phước long;tân uyên;phước long;gia lộc;hải dương;tân uyên;vinh;ninh phước;tây ninh;trà vinh
+2014-03-01, hóc môn;hóc môn;hóc môn
+2014-02-27, bình phước;tây ninh;bình dương;đồng nai;long an;tiền giang;bà rịa;tây ninh;vũng tàu;bà rịa;vũng tàu;tây ninh
+2014-02-24, trà vinh;trà vinh;vinh;vinh;càng long;cầu kè;trà vinh
+2014-02-18, hà nội
+2014-02-17, nha trang;nha trang
+2014-02-17, hà nội;lào cai;hà giang;cao bằng;lạng sơn;bắc ninh;bắc giang;quảng ninh;hưng yên;phú yên;bắc giang;bắc ninh;cao bằng;hà giang;hưng yên;lạng sơn;lào cai;bắc giang;bắc ninh;cao bằng;hà giang;hưng yên;lạng sơn;lào cai;đông hòa;quảng ninh
+2014-02-16, kon tum;đắk lắk;lâm đồng;tây ninh;long an;bạc liêu;cà mau;bạc liêu;buôn ma thuột;cà mau;kon tum;tây ninh;châu thành;bạc liêu;hồng dân;phước long;châu thành;phước long;cà mau;trần văn thời;buôn đôn;buôn ma thuột;lắk;châu thành;châu thành;châu thành;kon tum;ngọc hồi;cát tiên;châu thành;tân trụ;châu thành;bến cầu;châu thành;tây ninh;châu thành;châu thành
+2014-02-14, khánh hòa;cam ranh;cam ranh;ninh hòa;cam ranh
+2014-02-13, khánh hòa
+2014-02-13, quảng ngãi;khánh hòa;nha trang;quảng ngãi;nha trang;đức phổ;quảng ngãi;sơn tịnh
+2014-02-11, yên mô
+2014-02-08, tây ninh;tây ninh;tây ninh
+2014-01-27, bình phước;phước long;bù đăng;đồng phú;phước long;bình minh
+2014-01-22, lạng sơn;bắc ninh;bắc ninh;lạng sơn;bắc ninh;lạng sơn
+2014-01-15, bắc ninh;tiền giang;bắc ninh;bắc ninh
+2013-12-25, hà nội;hải phòng;bắc ninh;bắc giang;hưng yên;hải dương;hà nam;bắc giang;bắc ninh;hải dương;hưng yên;bắc giang;bắc ninh;hải dương;hưng yên
+2013-11-11, tiền giang;bến tre;bến tre;bến tre;tân phú;tân phú;tân phú;tân phú;tân phú đông
+2013-11-07, bình phước;tiền giang;đồng phú;tân phú;tân phú;tân phú;tân phú;tân hưng
+2013-11-06, tiền giang;tân phú;tân phú;tân phú;tân phú;tân phú đông
+2013-05-05, quảng ninh;quảng ninh
+2013-05-02, đồng nai
+2013-04-21, ninh thuận
+2013-04-20, ninh thuận;biên hòa;biên hòa;thanh bình
+2013-04-19, ninh thuận
+2013-04-17, ninh thuận;thanh bình
+2013-04-16, ninh thuận;thanh bình
+2013-04-14, hà nội;điện biên;lai châu;lào cai;hà giang;cao bằng;lạng sơn;quảng ninh;ninh thuận;long an;tiền giang;cao bằng;hà giang;lai châu;lạng sơn;lào cai;châu thành;châu thành;cao bằng;điện biên;thống nhất;châu thành;thanh bình;hà giang;châu thành;châu thành;lai châu;lạng sơn;lào cai;châu thành;quảng ninh;châu thành;châu thành;châu thành;châu thành
+2013-04-13, thanh bình
+2013-04-12, thanh bình
+2013-04-12, ân thi
+2013-04-12, ninh thuận;tiền giang;thanh bình;cần giờ;cần giờ;cần giờ;văn lâm;gò công
+2013-04-10, đà nẵng;ninh thuận;long an;đà nẵng;thống nhất
+2013-04-07, hà nội;lào cai;lạng sơn;lạng sơn;lào cai;cao lộc;lạng sơn;lộc bình;văn lãng;lào cai
+2013-04-06, hà nội
+2013-04-06, long an;mộc hóa
+2013-03-14, cà mau;cà mau;cà mau;thới bình;trần văn thời;tân phú;tân phú;tân phú;tân phú
+2012-11-02, anh sơn;thanh sơn
+2012-09-03, quảng ngãi;quảng ngãi;quảng ngãi
+2012-09-01, quảng ngãi;quảng ngãi;quảng ngãi
+2012-08-28, quảng ngãi;quảng ngãi;bình sơn;nghĩa hành;quảng ngãi;tư nghĩa
+2012-06-19, hà nội
+2012-06-09, hóc môn;hóc môn;hóc môn
+2012-04-16, tân phú;gò vấp;tân phú;gò vấp;tân phú;gò vấp;tân phú
+2012-04-06, quảng trị;hải lăng;quảng trị
+2012-04-03, bến tre;bến tre;bến tre
+2012-03-08, đà nẵng;đà nẵng
+2012-03-04, bình dương;củ chi;củ chi;củ chi
+2012-02-28, điện bàn;hiệp đức;quế sơn
+2012-02-27, thanh hóa;bình dương;thanh hóa;củ chi;củ chi;củ chi;thanh hóa
+2012-02-18, thanh hóa;thanh hóa;thanh hóa
+2012-02-14, thanh hóa;quảng trị;quảng nam;sóc trăng;sóc trăng;thanh hóa;điện bàn;duy xuyên;hiệp đức;núi thành;quảng trị;sóc trăng;thanh hóa
+2012-02-13, hải phòng;thái nguyên;bắc giang;hải dương;hà nam;thanh hóa;hà tĩnh;quảng trị;kiên giang;sóc trăng;kiên giang;bắc giang;hà tĩnh;hải dương;sóc trăng;thái nguyên;thanh hóa;bắc giang;hà tĩnh;hải dương;quảng trị;sóc trăng;thái nguyên;thanh hóa
+2012-02-08, thanh hóa;quảng trị;sóc trăng;sóc trăng;thanh hóa;anh sơn;thanh sơn;quảng trị;sóc trăng;thanh hóa
+2012-02-07, thanh hóa;thanh hóa;thanh hóa;triệu sơn
+2012-02-03, thanh hóa;quảng trị;thanh hóa;quảng trị;thanh hóa;triệu sơn
+2011-03-23, bến tre;bến tre;bến tre
+2010-12-22, cà mau;cà mau;cà mau
+2010-08-11, bình phước;tây ninh;bình dương;đồng nai;tiền giang;vĩnh long;hậu giang;bạc liêu;bà rịa;bạc liêu;tây ninh;vĩnh long;vũng tàu;bà rịa;vũng tàu;bạc liêu;tây ninh;vĩnh long
+2010-05-02, quảng ngãi;quảng ngãi;quảng ngãi
+2010-03-26, bến tre;bến tre;ba tri;bến tre;ba tri
+2010-03-02, khánh hòa
+2010-03-01, khánh hòa
+2010-02-05, kon tum;kon tum;kon tum;ngọc hồi
+2010-02-04, quảng trị;quảng trị;triệu phong
+2010-01-22, hà tĩnh;hà tĩnh;hà tĩnh
+2009-11-03, hà nội;điện biên;lai châu;hà giang;yên bái;tuyên quang;sơn la;quảng ninh;hòa bình;quảng nam;gia lai;hà giang;lai châu;sơn la;tuyên quang;hòa bình;điện biên;hà giang;hòa bình;lai châu;quảng ninh;sơn la;tuyên quang;yên bái
+2009-04-28, thanh hóa;thanh hóa;quan hóa;thanh hóa
+2009-03-31, hậu giang;sóc trăng;bạc liêu;cà mau;bạc liêu;cà mau;sóc trăng;phú tân;bạc liêu;cà mau;năm căn;phú tân;thới bình;trần văn thời;u minh;sóc trăng;u minh
+2009-03-29, bạc liêu;bạc liêu;bạc liêu
+2009-03-22, sóc trăng;sóc trăng;sóc trăng;thạnh trị
+2009-03-13, sóc trăng;sóc trăng;u minh;mỹ tú;mỹ xuyên;ngã năm;sóc trăng;thạnh trị;u minh
+2009-03-02, hậu giang;sóc trăng;ngã bảy;sóc trăng;vị thanh;u minh;ngã bảy;vị thanh;vị thủy;mỹ tú;ngã năm;sóc trăng;u minh
+2009-03-01, hà nội;điện biên;thái nguyên;bắc ninh;quảng ninh;ninh bình;thanh hóa;nghệ an;quảng trị;khánh hòa;vĩnh long;hậu giang;sóc trăng;bạc liêu;cà mau;bạc liêu;bắc ninh;cà mau;ninh bình;sóc trăng;thái nguyên;thanh hóa;vĩnh long;bạc liêu;bắc ninh;cà mau;điện biên;ninh bình;quảng ninh;quảng trị;sóc trăng;thái nguyên;thanh hóa;vĩnh long
+2009-02-27, hậu giang;sóc trăng;bạc liêu;bạc liêu;ngã bảy;sóc trăng;vị thanh;bạc liêu;giá rai;ngã bảy;vị thanh;vị thủy;mỹ xuyên;ngã năm;sóc trăng
+2009-02-23, quảng nam;khánh hòa;cà mau;cà mau;cà mau;u minh;điện bàn;u minh
+2009-02-21, bắc kạn;phú thọ;quảng ninh;hòa bình;ninh bình;quảng bình;quảng nam;khánh hòa;bắc kạn;nha trang;ninh bình;bắc kạn;hòa bình;hòa bình;nha trang;kim sơn;ninh bình;phú thọ;quảng ninh
+2009-02-19, bạc liêu;bạc liêu;bạc liêu;phước long;phước long
+2009-02-17, hậu giang;sóc trăng;bạc liêu;bạc liêu;sóc trăng;bạc liêu;phụng hiệp;mỹ xuyên;ngã năm;sóc trăng
+2009-02-16, cà mau;cà mau;cà mau;thới bình;trần văn thời
+2009-02-14, hậu giang;vị thanh;vị thanh;vị thủy
+2009-02-12, ngã năm
+2009-02-12, thái nguyên;quảng ninh;thanh hóa;nghệ an;hậu giang;sóc trăng;cà mau;cà mau;sóc trăng;thái nguyên;thanh hóa;cà mau;quảng ninh;sóc trăng;thái nguyên;thanh hóa
+2009-02-10, sóc trăng;sóc trăng;u minh;phụng hiệp;mỹ xuyên;ngã năm;sóc trăng;u minh
+2009-02-10, thái nguyên;quảng ninh;thanh hóa;quảng ngãi;quảng ngãi;thái nguyên;thanh hóa;sơn tây;sơn tây;sơn tây;quảng ninh;ba tơ;quảng ngãi;sơn hà;sơn tây;đầm hà;thái nguyên;thanh hóa
+2009-02-07, sóc trăng;sóc trăng;mỹ xuyên;sóc trăng
+2009-02-06, yên bái;sơn la;hòa bình;nghệ an;hà tĩnh;long an;sóc trăng;hà tĩnh;sóc trăng;sơn la;hòa bình;thanh bình;đức thọ;hà tĩnh;hòa bình;đô lương;mỹ xuyên;sóc trăng;sơn la;yên bái
+2009-02-05, sóc trăng;sóc trăng;u minh;mỹ xuyên;sóc trăng;u minh
+2009-02-05, nghệ an;sóc trăng;cà mau;cà mau;sóc trăng;cà mau;trần văn thời;sóc trăng
+2009-02-04, trần văn thời;ân thi
+2009-02-01, trần văn thời
+2009-01-19, sơn tây;sơn tây;sơn tây;sơn tây
+2008-09-26, cà mau;cà mau;cà mau
+2008-09-06, quảng ngãi;đồng tháp;kiên giang;kiên giang;quảng ngãi;quảng ngãi
+2008-06-10, nghệ an;hà tĩnh;kiên giang;trà vinh;kiên giang;hà tĩnh;trà vinh;vinh;hà tĩnh;vinh;trà vinh
+2008-05-29, gò vấp;gò vấp;cần giờ;nhà bè;cần giờ;nhà bè;gò vấp;cần giờ;nhà bè
+2008-05-22, phong điền;phong điền;phong điền;phong điền
+2008-05-09, cần thơ;phong điền;phong điền;phong điền;phong điền
+2008-04-29, thái nguyên;thái bình;nam định;ninh bình;nghệ an;hà tĩnh;quảng nam;lâm đồng;hà tĩnh;huế;nam định;ninh bình;thái bình;thái nguyên;hà tĩnh;nam định;ninh bình;hưng hà;thái bình;thái nguyên;huế
+2008-04-09, đà nẵng;thanh hóa;nghệ an;hà tĩnh;quảng nam;đà nẵng;hà tĩnh;thanh hóa;hà tĩnh;núi thành;thanh hóa
+2008-04-09, hà nội;lạng sơn;lạng sơn;bình tân;bình tân;bình tân;lạng sơn;bình tân
+2008-03-28, đà nẵng;quảng nam;đà nẵng;tam kỳ;đại lộc;núi thành;quế sơn;tam kỳ;thăng bình
+2008-03-26, thái bình;hà nam;ninh bình;quảng bình;quảng trị;quảng nam;sóc trăng;cà mau;cà mau;ninh bình;sóc trăng;thái bình;cà mau;anh sơn;ninh bình;thanh sơn;quảng trị;sóc trăng;thái bình
+2008-03-21, quảng bình;lệ thủy
+2008-03-15, quảng bình;lệ thủy
+2008-03-12, hà nội;tuyên quang;phú thọ;quảng ninh;hà nam;ninh bình;quảng trị;vĩnh long;ninh bình;tuyên quang;vĩnh long;ninh bình;phú thọ;quảng ninh;quảng trị;tuyên quang;vĩnh long
+2008-02-28, vĩnh long;vĩnh long;vĩnh long
+2008-02-23, bạc liêu;bạc liêu;bạc liêu
+2008-02-21, hà nội;tuyên quang;thái nguyên;quảng ninh;hải dương;nam định;hà tĩnh;quảng bình;long an;bạc liêu;bạc liêu;hà tĩnh;hải dương;nam định;thái nguyên;tuyên quang;bạc liêu;hà tĩnh;hải dương;nam định;quảng ninh;thái nguyên;tuyên quang
+2008-02-20, long an;bến lức
+2008-02-18, thái nguyên;quảng ninh;quảng bình;long an;thái nguyên;quảng ninh;thái nguyên
+2008-02-02, lệ thủy
+2008-01-06, thái nguyên;trà vinh;thái nguyên;trà vinh;vinh;vinh;thái nguyên;trà vinh
+2008-01-02, sơn la;sơn la;sơn la
